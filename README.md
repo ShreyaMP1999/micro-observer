@@ -1,5 +1,7 @@
 # micro-observer 🛰️
 
+LIVE LINK: https://micro-observer.vercel.app/dashboard
+
 A mini **Datadog-style system monitor dashboard** built with **React + TypeScript + FastAPI + SQLite**.
 
 It simulates a small fleet of microservices and visualizes:
@@ -103,3 +105,4 @@ npm install
 npm install recharts
 npm run dev
 Frontend runs at: http://localhost:5173
+
